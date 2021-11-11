@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Cardoso</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate frontend/backend developer and some other things from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phobopt&label=Profile%20views&color=0e75b6&style=flat" alt="phobopt" /> </p>
 
@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Mobillity as a Service Infrasture](https://github.com/phoboPT/MobilityApp)
+
+- 💪 Contibuting to a discord bot of the university course [Discord Bot](https://github.com/sousa-andre/ipvcEI-Bot)
 
 - 🌱 I’m currently learning **IPVC, online material and some courses.**
 
