@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Mobillity as a Service Infrasture](https://github.com/phoboPT/MobilityApp)
 
-- 💪 Contibuting to a discord bot of the university course [Discord Bot](https://github.com/sousa-andre/ipvcEI-Bot)
+- 💪 Contributing to a discord bot of the university course [Discord Bot](https://github.com/sousa-andre/ipvcEI-Bot)
 
-- 🌱 I’m currently learning **IPVC, online material and some courses.**
+- 🌱 I’m currently learning at **IPVC, online material and some courses.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/phoboPT](https://github.com/phoboPT)
 
